@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+<title id="title">Women of One Heart Initiative logo</title>
+<desc id="desc">A heart formed by embracing figures around a central spark.</desc>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ff2b97"/>
+    <stop offset="1" stop-color="#7a2cff"/>
+  </linearGradient>
+  <filter id="s" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#5f176f" flood-opacity=".18"/>
+  </filter>
+</defs>
+<rect width="320" height="320" rx="84" fill="#fff7fc"/>
+<g filter="url(#s)">
+  <path d="M160 248C112 215 68 182 68 130c0-34 25-60 58-60 18 0 32 7 44 22 12-15 26-22 44-22 33 0 58 26 58 60 0 52-44 85-92 118l-20 14-20-14Z" fill="none" stroke="url(#g)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="118" cy="121" r="16" fill="#ff2b97"/>
+  <circle cx="202" cy="121" r="16" fill="#9a36ff"/>
+  <path d="M102 151c12 1 27 7 41 22M218 151c-12 1-27 7-41 22" fill="none" stroke="url(#g)" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="160" cy="135" r="13" fill="#6f2cf4"/>
+  <path d="M160 156c-9 12-17 23-17 37 0 11 7 19 17 19s17-8 17-19c0-14-8-25-17-37Z" fill="#ff3f9d"/>
+  <path d="M160 74l5 12 13 1-10 8 3 13-11-7-11 7 3-13-10-8 13-1 5-12Z" fill="#ffcc4d"/>
+</g>
+</svg>
