@@ -5,7 +5,7 @@ Files:
 - logo.svg   : custom scalable logo used by the website
 
 Contact:
-- endiibakawooya@gmail.com
+- celciusinnovate@gmail.com
 - Mamerito Building, Room 8, Kamuli Road, Wakiso, Uganda
 
 Notes:
